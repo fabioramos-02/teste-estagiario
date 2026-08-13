@@ -1,0 +1,23 @@
+# Credenciais
+.env
+.env.*
+*.pem
+*.key
+
+# Scripts de extração (uso interno — não vão no repo do estagiário)
+scripts/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
