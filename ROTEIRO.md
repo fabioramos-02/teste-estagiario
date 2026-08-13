@@ -10,7 +10,7 @@ dados** e **como justifica suas decisões técnicas**.
 
 ---
 
-## Etapa 1 — Explorar os dados (1 a 2 horas)
+## Etapa 1 — Explorar os dados
 
 Antes de escrever qualquer linha de código de aplicação, abra os CSVs e
 responda para si mesmo:
@@ -30,7 +30,7 @@ atenção antes de sair codando.
 
 ---
 
-## Etapa 2 — Desenhar a aplicação (30 min a 1 hora)
+## Etapa 2 — Desenhar a aplicação 
 
 Escreva uma nota curta (`decisao-tecnica.md`, meia página é suficiente)
 respondendo:
@@ -113,7 +113,6 @@ O que **não** conta pontos extras:
 
 ## Regras de ouro
 
-- **Pergunte quando estiver em dúvida.** Não perder 4 horas fazendo a coisa errada é uma habilidade profissional.
 - **Prazo maior que o necessário é sinal de escopo mal definido.** Se a etapa está demorando muito, para e pergunta.
 - **Commits pequenos e frequentes.** Não me entregue um único commit "primeira versão" no último dia.
 - Os dados são **anonimizados mas ainda são dados de gente**. Não publique num repositório público sem checar antes.
